@@ -1,5 +1,11 @@
 # Release notes
 
+## New in git-machete 2.11.0
+
+- added: possibility of overriding fork point
+- added: `--override-to` and `--unset-override` options for `fork-point`
+- added: `with-overridden-fork-point` category of `list`
+
 ## New in git-machete 2.10.0
 
 - changed: enable execution under both Python 2.7 and Python 3
